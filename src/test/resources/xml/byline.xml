@@ -1,0 +1,17 @@
+<byline name="By AJP Taylor &amp; Adam Brookes &amp; Alan Hansen"
+	title="Historian">
+	<person>
+		<name>AJP Taylor</name>
+		<function>Historian</function>
+	</person>
+	<!-- deliberately left full length url for testing purposes -->
+	<person
+		thumbnail="http://news.bbcimg.co.uk/media/images/49626000/jpg/_49626981_adambrookes-1.jpg">
+		<name>Adam Brookes</name>
+		<function>BBC News, Washington</function>
+	</person>
+	<person thumbnail="/media/images/56175000/jpg/_56175853_009932070-1.jpg">
+		<name>Alan Hansen</name>
+		<function>BBC Sport football expert</function>
+	</person>
+</byline>

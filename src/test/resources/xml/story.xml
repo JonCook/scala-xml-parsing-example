@@ -1,0 +1,318 @@
+<story xsi:schemaLocation="http://www.bbc.co.uk/asset story.xsd" uri="http://www.bbc.co.uk/asset/916027f3-9e2f-e946-bd56-f8b45e878db4" version="0.1" xmlns="http://www.bbc.co.uk/asset" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">  
+    <!-- CPS Asset ID: 16355930 -->  
+     <itemMeta> 
+	 	<url href="/football/arsenal"/>
+		<platform>highweb</platform>
+		<audience>domestic</audience>        
+	    <assetTypeCode>STY</assetTypeCode>
+	    <assetId>16355930</assetId>
+	    <headline>Man sued for keeping company Twitter followers</headline>  
+	    <shortHeadline>Man sued over Twitter followers £ $ # # € €</shortHeadline>  
+	    <summary>A man is being sued by his former employer after he left the company and took a 17,000-strong Twitter following with him.</summary>  
+	    <section id="99104" name="Business" uri="/news/business"/>
+	    <primaryConceptId>http://www.bbc.co.uk/things/b9a58a01-0c74-8b47-972f-68f922ebd90a#id</primaryConceptId>
+	    <secondaryConceptId>http://www.bbc.co.uk/things/903ef380-bdae-4a45-9a8b-5e5a270a7d6c#id</secondaryConceptId>
+	    <firstCreated>2011-12-29T15:20:52+00:00</firstCreated>  
+	    <lastUpdated>2011-12-30T12:14:21+00:00</lastUpdated>
+	    <lastPublished>2012-02-11T10:58:42+00:00</lastPublished> 
+	    <publicationStatus>PUBLISHED</publicationStatus>  
+	    <language>en-GB</language>  
+	    <site code="jons-site" name="Jon Site"/>  
+	    <provider>cps</provider>
+	    <isLive>true</isLive>
+	    <iStatsCounterName>news.business.story.16355930.page</iStatsCounterName>
+	    <hasShortForm>true</hasShortForm>
+	    <isOppm>true</isOppm>
+	    <mediaType>Audio</mediaType>
+	    <adCampaignKeyword>Some advertising keyword</adCampaignKeyword>
+	 </itemMeta>  
+    <pageOptions> 
+        <pageOption name="allowDateStamp" value="true"/>
+        <pageOption name="allowPrintingSharingLinks" value="true"/>
+        <pageOption name="allowHeadline" value="true"/>
+        <pageOption name="allowRightHandSide" value="true"/>
+        <pageOption name="allowRelatedStoriesBox" value="true"/>  
+        <pageOption name="includeComments" value="false"/>  
+        <pageOption name="allowAdvertising" value="true"/> 
+    </pageOptions>
+    <byline name="By AJP Taylor &amp; Adam Brookes &amp; Alan Hansen" title="Historian"> 
+        <person> 
+            <name>AJP Taylor</name>  
+            <function>Historian</function> 
+        </person>  
+        <!-- deliberately left full length url for testing purposes -->
+        <person thumbnail="http://news.bbcimg.co.uk/media/images/49626000/jpg/_49626981_adambrookes-1.jpg"> 
+            <name>Adam Brookes</name>  
+            <function>BBC News, Washington</function> 
+        </person>  
+        <person thumbnail="/media/images/56175000/jpg/_56175853_009932070-1.jpg"> 
+            <name>Alan Hansen</name>  
+            <function>BBC Sport football expert</function> 
+        </person> 
+    </byline>
+    <shortFormBody xml:space="preserve" xml:base="http://www.bbc.co.uk/article/5bdf78a1-58df-2d4d-b400-7269adf49f20">
+    	<paragraph>Google has started uploading the latest version of its Android system to users' smartphones. </paragraph>
+    	<paragraph>Owners of the HSPA+ version of Samsung's Galaxy Nexus - available in the UK, most of Europe and the US - are the first to receive the update. </paragraph>
+    	<paragraph>Google says the Jelly Bean software offers an improved search experience. </paragraph>
+    	<paragraph>But it does not appear to have amended the system to take account of a patent row that briefly caused the Nexus phone to be banned from sale in the US. </paragraph>
+    </shortFormBody>  
+    <body xml:base="http://www.bbc.co.uk/article/89630745-41ba-5f4d-96ec-3b73262afa0f"> 
+        <image id="57581128"/>  
+        <paragraph role="introduction">A man is being sued for keeping Twitter followers that he attracted while working for a US mobile news website.</paragraph>  
+        <paragraph>Noah Kravitz tweeted for 
+            <!-- CPS Asset ID: 16355932 -->  
+            <link> 
+                <caption>Phonedog</caption>  
+                <url platform="highweb" href="http://www.phonedog.com/"/> 
+            </link> as @Phonedog_Noah, but later changed his username when he left the company - taking 17,000 followers with him.
+        </paragraph>  
+        <paragraph>The company is now seeking damages of $2.50 (£1.60) per user, per month - a total of $370,000.</paragraph>  
+        <paragraph>Mr Kravitz said his former employer had given him permission to continue using the account after he left.</paragraph>  
+        <paragraph>He 
+            <!-- CPS Asset ID: 16355931 -->  
+            <link> 
+                <caption>told the New York Times</caption>  
+                <url platform="highweb" href="http://www.nytimes.com/2011/12/26/technology/lawsuit-may-determine-who-owns-a-twitter-account.html?_r=1&amp;ref=technology"/> 
+            </link> that Phonedog had allowed him to make the account personal as long as he agreed to "tweet on their behalf from time to time".
+        </paragraph>  
+        <paragraph>The 17,000 followers, which have since risen to 22,000, had been built up by Mr Kravitz during his four years at the company where he worked as a blogger.</paragraph>  
+        <paragraph>However, eight months later the company filed a lawsuit claiming that the account's followers were a customer list, and that it had invested "substantial" resources into building it.</paragraph>  
+        <paragraph>In a written statement, it said: "The costs and resources invested by Phonedog Media into growing its followers, fans and general brand awareness through social media are substantial and are considered property of Phonedog Media.</paragraph>  
+        <paragraph>"We intend to aggressively protect our customer lists and confidential information, intellectual property, trademark and brands."</paragraph>  
+        <quoteBox> 
+            <quote> 
+                <quoteText>Companies will now be developing careful ways of deciding if they want to tweet with a conjoined account</quoteText>  
+                <quoteSource title="Intellectual property lawyer">Barbara Cookson</quoteSource> 
+            </quote> 
+        </quoteBox>  
+        <pullOut title="Analysis" size="wide" href="http://www.bbc.co.uk/sport/0/cricket/16198462">
+            <!-- pullout-items-->
+            <byline name="Iain Mackenzie" title=" Technology reporter, BBC News ">
+                <person thumbnail="/media/images/48328000/jpg/_48328491_iainheadshot.jpg">
+                    <name>Iain Mackenzie</name>
+                    <function>Technology reporter, BBC News</function>
+                </person>
+            </byline>
+            <!-- pullout-body-->
+            <paragraph></paragraph>
+            <paragraph>The news of PlayStation Network's restart will be welcomed by gamers, many of whom were beginning to give up hope of it ever reappearing.</paragraph>
+        </pullOut>
+        <crosshead>Strong personality</crosshead>  
+        <paragraph>Corporate control of Twitter accounts has been a highly debated subject. Legal experts believe this latest case could set a precedent for future ownership tussles.</paragraph>  
+        <paragraph>"Companies will now be developing careful ways of deciding if they want to tweet with a conjoined account," said Barbara Cookson, an intellectual property lawyer in the UK.</paragraph>  
+        <paragraph>"For ordinary businesses it's quite difficult to gain a following without a strong personality. You have to have a very strong brand for it to work."</paragraph>  
+        <paragraph>Ms Cookson argued it is hard to pinpoint a financial value to Twitter followers as it is unclear why they follow a particular account.</paragraph>  
+        <paragraph>It's arguable as to whether a Twitter follower list is comparable to a mailing list.</paragraph>  
+        <paragraph>"If Phonedog has been using it to run offers, it perhaps is a mailing list that has value."</paragraph>  
+        <paragraph>However, intellectual property solicitor Leigh Ellis said Phonedog are likely to have a strong case as the original account featured the company's name.</paragraph>  
+        <paragraph>"Let me put it this way, I'd prefer to be on Phonedog's side," he told the BBC.</paragraph>  
+        <paragraph>"If you're a follower, who are you following? You might be following Noah, but it's PhonedogNoah. There's a very good argument that the reputation accrued is to the company, rather than the individual."</paragraph> 
+		<paragraph>Here is a link to a story in the content store, but with a failed XInclude: 
+              <warn>Unable to resolve XInclude for href="/non-existent-uri1" xpointer="xmlns(bbc=http://www.bbc.co.uk/content/asset) xpointer(/bbc:story/bbc:itemMeta)"</warn> 
+        </paragraph>
+		<paragraph>
+          <!-- CPS Asset ID: 18786144 -->
+          <itemMeta overtyped-headline="Huddersfield sign defender Lynch">
+              <url href="/sport/football/18786144" xml:base="http://www.bbc.co.uk/asset/639d7efd-5686-1044-9f7b-20cf5cfe44e7" />
+              <assetTypeCode xml:base="http://www.bbc.co.uk/asset/639d7efd-5686-1044-9f7b-20cf5cfe44e7">STY</assetTypeCode>
+              <assetId xml:base="http://www.bbc.co.uk/asset/639d7efd-5686-1044-9f7b-20cf5cfe44e7">18786144</assetId> 
+  			  <error>Unable to resolve XInclude for href="http://www.bbc.co.uk/article/16083779-890f-d748-8ea1-9335cc64a07a" xpointer="xmlns(bbc=http://www.bbc.co.uk/content/asset) xpointer(/bbc:article/bbc:headline)" [Asset ID=18786144]</error> 
+ 			  <error>Unable to resolve XInclude for href="http://www.bbc.co.uk/article/16083779-890f-d748-8ea1-9335cc64a07a" xpointer="xmlns(bbc=http://www.bbc.co.uk/content/asset) xpointer(/bbc:article/bbc:shortHeadline)" [Asset ID=18786144]</error> 
+ 			  <error>Unable to resolve XInclude for href="http://www.bbc.co.uk/article/16083779-890f-d748-8ea1-9335cc64a07a" xpointer="xmlns(bbc=http://www.bbc.co.uk/content/asset) xpointer(/bbc:article/bbc:summary)" [Asset ID=18786144]</error> 
+			  <section id="101539" name="Football" xml:base="http://www.bbc.co.uk/asset/639d7efd-5686-1044-9f7b-20cf5cfe44e7" />
+			  <firstCreated xml:base="http://www.bbc.co.uk/asset/639d7efd-5686-1044-9f7b-20cf5cfe44e7">2012-07-10T15:05:53+00:00</firstCreated>
+			  <lastUpdated xml:base="http://www.bbc.co.uk/asset/639d7efd-5686-1044-9f7b-20cf5cfe44e7">2012-07-11T08:21:20+00:00</lastUpdated>
+			  <lastPublished xml:base="http://www.bbc.co.uk/asset/639d7efd-5686-1044-9f7b-20cf5cfe44e7">2012-07-13T16:30:58+00:00</lastPublished>
+			  <publicationStatus xml:base="http://www.bbc.co.uk/asset/639d7efd-5686-1044-9f7b-20cf5cfe44e7">PUBLISHED</publicationStatus>
+			  <language xml:base="http://www.bbc.co.uk/asset/639d7efd-5686-1044-9f7b-20cf5cfe44e7">en-GB</language>
+			  <siteId xml:base="http://www.bbc.co.uk/asset/639d7efd-5686-1044-9f7b-20cf5cfe44e7">Sport v6</siteId>
+			  <provider xml:base="http://www.bbc.co.uk/asset/639d7efd-5686-1044-9f7b-20cf5cfe44e7">cps</provider>
+			  <hasShortForm xml:base="http://www.bbc.co.uk/asset/639d7efd-5686-1044-9f7b-20cf5cfe44e7">true</hasShortForm>
+		  </itemMeta>
+      </paragraph> 
+    </body>  
+    <media> 
+        <images type="body"> 
+            <image id="57581128" width="304" height="171" href="/media/images/57581000/jpg/_57581128_57581119.jpg"> 
+                <caption>Mr Kravitz took the Twitter account after leaving Phonedog in October last year</caption>  
+                <altText>A screenshot of Noah Kravitz's Twitter profile</altText> 
+            </image> 
+        </images>  
+        <images type="index"> 
+            <image id="57606423" width="228" height="128" href="/media/images/57606000/jpg/_57606423_57581119.jpg"> 
+                <caption>Mr Kravitz took the Twitter account after leaving Phonedog in October last year</caption>
+                <altText>A screenshot of Noah Kravitz's Twitter profile</altText> 
+            </image>  
+            <image id="57606420" width="112" height="63" href="/media/images/57606000/jpg/_57606420_57581119.jpg"> 
+                <altText>A screenshot of Noah Kravitz's Twitter profile</altText> 
+            </image>  
+            <image id="57606422" width="350" height="196" href="/media/images/57606000/jpg/_57606422_57581119.jpg"> 
+                <altText>A screenshot of Noah Kravitz's Twitter profile</altText> 
+            </image>  
+            <image id="57581120" width="464" height="261" href="/media/images/57581000/jpg/_57581120_57581119.jpg"> 
+                <altText>A screenshot of Noah Kravitz's Twitter profile</altText> 
+            </image>  
+            <image id="57581122" width="144" height="81" href="/media/images/57581000/jpg/_57581122_57581119.jpg"> 
+                <altText>A screenshot of Noah Kravitz's Twitter profile</altText> 
+            </image>  
+            <image id="57606421" width="304" height="171" href="/media/images/57606000/jpg/_57606421_57581119.jpg"> 
+                <altText>A screenshot of Noah Kravitz's Twitter profile</altText> 
+            </image>  
+            <image id="57606418" width="203" height="152" href="/media/images/57606000/jpg/_57606418_57581119.jpg"> 
+                <altText>A screenshot of Noah Kravitz's Twitter profile</altText> 
+            </image>  
+            <image id="57581126" width="226" height="170" href="/media/images/57581000/jpg/_57581126_57581119.jpg"> 
+                <altText>A screenshot of Noah Kravitz's Twitter profile</altText> 
+            </image>  
+            <image id="57606419" width="126" height="70" href="/media/images/57606000/jpg/_57606419_57581119.jpg"> 
+                <altText>A screenshot of Noah Kravitz's Twitter profile</altText> 
+            </image>  
+            <image id="57581124" width="66" height="49" href="/media/images/57581000/jpg/_57581124_57581119.jpg"> 
+                <altText>A screenshot of Noah Kravitz's Twitter profile</altText> 
+            </image> 
+        </images>  
+        <images type="index-slideshow"/> 
+    </media>
+    <commentForm subject="comments" email-prefix="comments" open="true" ugc-instructions="true">
+        <introduction>
+            <paragraph role="introduction">A comments Form</paragraph>
+        </introduction>
+        <comment name="Jon" location="London">
+            <paragraph>A nice comment</paragraph>
+        </comment>
+        <comment name="Scott" location="Scotland">
+            <paragraph>A bad comment</paragraph>
+        </comment>
+    </commentForm>  
+    <relatedGroups>
+        <group type="index">
+            <!-- CPS Asset ID: 16332930 -->
+            <item>
+                <itemMeta>
+                    <url href="/news/uk-wales-north-west-wales-16332930"/>
+                    <assetTypeCode>STY</assetTypeCode>
+                    <headline>Twitter service launched for Snowdonia walkers</headline>
+                    <shortHeadline>Twitter help for mountain walkers</shortHeadline>
+                    <summary>A new information service using Twitter is launched aimed at keeping walkers safe in Snowdonia.</summary>
+                    <section id="99259" name="North West Wales"/>
+                    <firstCreated>2011-12-26T12:21:45+00:00</firstCreated>
+                    <lastUpdated>2011-12-26T15:19:58+00:00</lastUpdated>
+                    <publicationStatus>PUBLISHED</publicationStatus>
+                    <language>en-GB</language>
+                    <site id="825" name="BBC News"/>
+                    <provider>cps</provider>
+                </itemMeta>
+            </item>
+            <!-- CPS Asset ID: 16241581 -->
+            <item>
+                <itemMeta>
+                    <url href="/news/business-16241581"/>
+                    <assetTypeCode>STY</assetTypeCode>
+                    <headline>Twitter gets $300m Saudi cash injection</headline>
+                    <shortHeadline>Twitter gets Saudi cash injection</shortHeadline>
+                    <summary>Saudi billionaire Prince Alwaleed bin Talal and his Kingdom Holding Coannounce a $300m investment in social media site Twitter.</summary>
+                    <section id="99104" name="Business"/>
+                    <firstCreated>2011-12-19T07:43:53+00:00</firstCreated>
+                    <lastUpdated>2011-12-19T08:09:53+00:00</lastUpdated>
+                    <publicationStatus>PUBLISHED</publicationStatus>
+                    <language>en-GB</language>
+                    <site id="825" name="BBC News"/>
+                    <provider>cps</provider>
+                </itemMeta>
+            </item>
+        </group>
+        <group type="grouped-assets">
+        	<item>
+        		<link>
+        			<firstCreated>2011-12-15T10:56:07+00:00</firstCreated>
+        			<lastUpdated>2011-12-15T11:09:56+00:00</lastUpdated>
+        			<caption>Somerset confirm Philander deal</caption>
+        			<url platform="highweb" href="http://www.bbc.co.uk/sport/0/cricket/16198462"/>
+        			<url platform="enhancedmobile" href="http://www.bbc.co.uk/sport/0/mobile/cricket/16198462"/>
+        		</link>
+        	</item>
+        </group>
+        <group type="see-alsos">
+        	<!--  Failed XInclude -->
+            <!--  <item> 
+                <warn>Unable to resolve XInclude for href="/non-existent-uri2" xpointer="xmlns(bbc=http://www.bbc.co.uk/content/asset) xpointer(/bbc:story/bbc:itemMeta)"</warn> 
+          	</item>-->
+            <!-- CPS Asset ID: 16332930 -->
+            <item>
+                <itemMeta>
+                    <url href="/news/uk-wales-north-west-wales-16332930"/>
+                    <assetTypeCode>STY</assetTypeCode>
+                    <headline>Twitter service launched for Snowdonia walkers</headline>
+                    <shortHeadline>Twitter help for mountain walkers</shortHeadline>
+                    <summary>A new information service using Twitter is launched aimed at keeping walkers safe in Snowdonia.</summary>
+                    <section id="99259" name="North West Wales"/>
+                    <firstCreated>2011-12-26T12:21:45+00:00</firstCreated>
+                    <lastUpdated>2011-12-26T15:19:58+00:00</lastUpdated>
+                    <publicationStatus>PUBLISHED</publicationStatus>
+                    <language>en-GB</language>
+                    <site id="825" name="BBC News"/>
+                    <provider>cps</provider>
+                </itemMeta>
+            </item>
+            <!-- CPS Asset ID: 16333215 -->
+            <item>
+                <link>
+				   <firstCreated>2011-08-30T13:01:41+00:00</firstCreated>
+				   <lastUpdated>2011-08-30T13:20:46+00:00</lastUpdated>
+	               <caption>Are businesses using 'F-commerce'?</caption>
+	               <url platform="enhancedmobile" href="http://www.bbc.co.uk/news/mobile/business-16333215"/>
+	               <url platform="highweb" href="http://www.bbc.co.uk/news/business-16333215"/>
+           		</link>
+            </item>
+            <!-- CPS Asset ID: 16241581 -->
+            <item>
+                <itemMeta>
+                    <url href="/news/business-16241581"/>
+                    <assetTypeCode>STY</assetTypeCode>
+                    <headline>Twitter gets $300m Saudi cash injection</headline>
+                    <shortHeadline>Twitter gets Saudi cash injection</shortHeadline>
+                    <summary>Saudi billionaire Prince Alwaleed bin Talal and his Kingdom Holding Coannounce a $300m investment in social media site Twitter.</summary>
+                    <section id="99104" name="Business"/>
+                    <firstCreated>2011-12-19T07:43:53+00:00</firstCreated>
+                    <lastUpdated>2011-12-19T08:09:53+00:00</lastUpdated>
+                    <publicationStatus>PUBLISHED</publicationStatus>
+                    <language>en-GB</language>
+                    <site id="825" name="BBC News"/>
+                    <provider>cps</provider>
+                </itemMeta>
+            </item>
+            <!-- CPS Asset ID: 11729972 -->
+            <item>
+                <itemMeta>
+                    <url href="/news/technology-11729972"/>
+                    <assetTypeCode>STY</assetTypeCode>
+                    <headline>Is your family socially connected?</headline>
+                    <shortHeadline>Is your family socially connected?</shortHeadline>
+                    <summary>Are you making the most of technology to stay in touch with your family wherever they are?</summary>
+                    <section id="99113" name="Technology"/>
+                    <firstCreated>2010-11-10T17:22:54+00:00</firstCreated>
+                    <lastUpdated>2011-12-26T08:54:05+00:00</lastUpdated>
+                    <publicationStatus>PUBLISHED</publicationStatus>
+                    <language>en-GB</language>
+                    <site id="825" name="BBC News"/>
+                    <provider>cps</provider>
+                </itemMeta>
+            </item>
+        </group>
+        <group type="related-urls">
+            <item>
+                <link>
+                    <caption>Phonedog</caption>
+                    <url platform="enhancedmobile" href="http://www.mobile.phonedog.com"/>
+                    <url platform="highweb" href="http://www.phonedog.com"/>
+                </link>
+            </item>
+            <item>
+                <link>
+                    <caption>Noah Kravitz</caption>
+                    <url platform="highweb" href="http://twitter.com/#!/noahkravitz"/>
+                </link>
+            </item>
+        </group>
+    </relatedGroups>
+</story>

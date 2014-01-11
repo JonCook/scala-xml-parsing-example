@@ -1,0 +1,9 @@
+<pageOptions>
+	<pageOption name="allowDateStamp" value="true" />
+	<pageOption name="allowPrintingSharingLinks" value="true" />
+	<pageOption name="allowHeadline" value="true" />
+	<pageOption name="allowRightHandSide" value="true" />
+	<pageOption name="allowRelatedStoriesBox" value="true" />
+	<pageOption name="includeComments" value="false" />
+	<pageOption name="allowAdvertising" value="true" />
+</pageOptions>
