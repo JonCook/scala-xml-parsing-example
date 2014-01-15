@@ -13,6 +13,7 @@ case class ItemMeta(
   val assetTypeCode: String,
   val section: Section,
   val primaryConceptId: String,
+  val secondaryConceptId: String,
   val firstCreated: String,
   val lastUpdated: String,
   val site: Site,
@@ -36,6 +37,7 @@ case class ItemMeta(
       <type>{ assetTypeCode }</type>
       { section.toXML }
       <primaryConceptId>{ primaryConceptId }</primaryConceptId>
+      <secondaryConceptId>{ secondaryConceptId }</secondaryConceptId>
       <firstCreated>{ firstCreated }</firstCreated>
       <lastUpdated>{ lastUpdated }</lastUpdated>
       { site.toXML }
@@ -64,6 +66,7 @@ object ItemMeta {
       assetTypeCode = (node \ "assetTypeCode").text,
       section = Section.fromXML((node \ "section")),
       primaryConceptId = (node \ "primaryConceptId").text,
+      secondaryConceptId = (node \ "secondaryConceptId").text,
       firstCreated = (node \ "firstCreated").text,
       lastUpdated = (node \ "lastUpdated").text,
       site = Site.fromXML((node \ "site")),

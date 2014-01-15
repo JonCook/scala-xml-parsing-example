@@ -1,0 +1,31 @@
+<relatedGroups>
+    <group type="index">
+        <!-- CPS Asset ID: 16332930 -->
+        <item>
+            <itemMeta>
+                <url href="/news/uk-wales-north-west-wales-16332930"/>
+                <assetTypeCode>STY</assetTypeCode>
+                <headline>Twitter service launched for Snowdonia walkers</headline>
+                <shortHeadline>Twitter help for mountain walkers</shortHeadline>
+                <summary>A new information service using Twitter is launched aimed at keeping walkers safe in Snowdonia.</summary>
+                <section id="99259" name="North West Wales"/>
+                <firstCreated>2011-12-26T12:21:45+00:00</firstCreated>
+                <lastUpdated>2011-12-26T15:19:58+00:00</lastUpdated>
+                <publicationStatus>PUBLISHED</publicationStatus>
+                <language>en-GB</language>
+                <site id="825" name="BBC News"/>
+                <provider>cps</provider>
+            </itemMeta>
+        </item>
+        <!-- CPS Asset ID: 16241581 -->
+        <item>
+            <link>
+                <firstCreated>2011-12-15T10:56:07+00:00</firstCreated>
+                <lastUpdated>2011-12-15T11:09:56+00:00</lastUpdated>
+                <caption>Somerset confirm Philander deal</caption>
+                <url platform="highweb" href="http://www.bbc.co.uk/sport/0/cricket/16198462"/>
+                <url platform="enhancedmobile" href="http://www.bbc.co.uk/sport/0/mobile/cricket/16198462"/>
+            </link>
+        </item>
+    </group>
+</relatedGroups>
