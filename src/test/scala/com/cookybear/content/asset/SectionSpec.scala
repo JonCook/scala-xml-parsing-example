@@ -13,15 +13,14 @@ class SectionSpec extends XmlDataSpec {
     it("should have an id") {
       assert(section.id === "99104")
     }
-    
+
     it("should have an uri") {
       assert(section.uri === "/news/business")
     }
-    
+
     it("should have a name") {
       assert(section.name === "Business")
     }
-
   }
 
 }

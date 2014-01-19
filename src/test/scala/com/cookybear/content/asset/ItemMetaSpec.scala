@@ -25,7 +25,7 @@ class ItemMetaSpec extends XmlDataSpec {
 
     it("should have different types of headlines") {
       assert(itemMeta.headline === "Man sued for keeping company Twitter followers")
-      assert(itemMeta.shortHeadline === "Man sued over Twitter followers £ $ # # € €")
+      assert(itemMeta.shortHeadline === "Man sued over Twitter followers")
     }
 
     it("should have a summary") {

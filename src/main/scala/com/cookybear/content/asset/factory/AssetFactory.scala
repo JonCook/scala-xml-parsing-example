@@ -10,6 +10,7 @@ object AssetFactory {
 
     trimmedNode match {
       case <story>{ children @ _* }</story> => Story.fromXML(trimmedNode)
+      case _ => throw new IllegalArgumentException("Unknown asset found")
     }
 
   }

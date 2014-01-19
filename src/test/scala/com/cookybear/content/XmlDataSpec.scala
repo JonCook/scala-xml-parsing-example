@@ -6,11 +6,12 @@ import org.scalatest.FunSpec
 import com.cookybear.content.utils.FixtureTestUtils
 import scala.xml.Elem
 import scala.xml.PrettyPrinter
+import org.scalatest.junit.ShouldMatchersForJUnit
 
 /**
  * Convenience trait to cut down on the number of mixins we're using in all our tests.
  */
-trait XmlDataSpec extends FunSpec with MustMatchers with FixtureTestUtils with BeforeAndAfter {
+trait XmlDataSpec extends FunSpec with ShouldMatchersForJUnit with MustMatchers with FixtureTestUtils with BeforeAndAfter {
 
   def prettyPrint(element: Elem) = {
     val xmlPrinter = new PrettyPrinter(80, 2)
