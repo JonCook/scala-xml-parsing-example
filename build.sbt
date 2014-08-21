@@ -6,7 +6,7 @@ version := "1.0.0"
 
 description := "Scala Xml Parsing Example"
 
-scalaVersion := "2.10.3"
+scalaVersion := "2.10.4"
 
 libraryDependencies ++= Seq(
    "junit" % "junit" % "4.8.1" % "test",

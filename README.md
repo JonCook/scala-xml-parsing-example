@@ -4,6 +4,9 @@ Example scala project to demontrate scala’s built-in support for XML and its m
 ## Usage
 Assumes you have jdk, scala and sbt installed. Clone and run sbt test from the root directory below.
 
+## Current Build Status
+[![Build Status](https://travis-ci.org/JonCook/scala-xml-parsing-example.svg?branch=master)](https://travis-ci.org/JonCook/scala-xml-parsing-example)
+
 ## Entry point
 Main.scala - simple main method to load an asset xml, allocate the correct asset from the AssetFactory and print the xml representation for this asset.
 
